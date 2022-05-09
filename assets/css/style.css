@@ -1,0 +1,36 @@
+.nav-bg {
+  background-color: #251d3a;
+}
+
+.nav-item .nav-link {
+  color: white;
+}
+
+.bannar {
+  background-image: url("../images/VecteezyWhite-Background-02RD0421-rev-01_generated.jpg");
+  height: 70vh;
+  background-size: cover;
+  background-position: center;
+}
+
+p {
+    color: #251d3a;
+}
+
+.booksize {
+
+    height: 400px;
+}
+
+.cards-container {
+ 
+    margin-top: 30px;
+}
+
+
+.progress {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 550px;
+    height: 30px !important;
+}
